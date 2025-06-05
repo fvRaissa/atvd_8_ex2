@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">atvd_01_ex2</string>
+    <string name="vA">Value A</string>
+    <string name="vB">Value B</string>
+    <string name="vC">Value C</string>
+    <string name="x1">Root 1</string>
+    <string name="x2">Root 2</string>
+    <string name="Delta">Delta</string>
+    <string name="calc">Calculate</string>
+    <string name="info">Undefined (Delta less than 0 or Value A = 0)</string>
+    <string name="ident">Name:Raissa Farias RA:1110482412032</string>
+</resources>

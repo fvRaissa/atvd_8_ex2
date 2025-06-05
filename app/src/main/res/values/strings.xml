@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">atvd_01_ex2</string>
+    <string name="vA">Valor A</string>
+    <string name="vB">Valor B</string>
+    <string name="vC">Valor C</string>
+    <string name="x1">X1</string>
+    <string name="x2">X2</string>
+    <string name="Delta">Delta</string>
+    <string name="calc">Calcular</string>
+    <string name="info">Indefinido (Delta menor que 0 ou Valor A = 0)</string>
+    <string name="ident">Nome:Raissa Farias RA:1110482412032</string>
+</resources>
